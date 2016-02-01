@@ -21,7 +21,7 @@ var anArray=["hello",1,"from",2,"the",3,"other",4,"side"]
 for(var i=0;i<anArray.length; i++){
   anArray[0]
   anArray.push[5]
-  anArray[0]="pizza"
+  anArray[0]="yo"
 }
 
 console.log(anArray)
